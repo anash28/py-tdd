@@ -1,4 +1,4 @@
-# Checking out TDD with Python 
+# Checking out TDD with Python
 
 ### TDD with Python
 http://chimera.labs.oreilly.com/books/1234000000754/index.html
@@ -18,5 +18,8 @@ I’m burning to share it with everyone."
 of my experience."
 ```
 ```
-TDD isn’t something that comes naturally. It’s a discipline, like a martial art, and just like in a Kung-Fu movie, you need a bad-tempered and unreasonable master to force you to learn the discipline. Ours is the Testing Goat.
+TDD isn’t something that comes naturally. It’s a discipline, like a martial art,
+ and just like in a Kung-Fu movie, you need a bad-tempered and unreasonable
+ master to force you to learn the discipline. Ours is the Testing Goat.
+ 
 ```
